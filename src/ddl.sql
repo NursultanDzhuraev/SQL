@@ -34,6 +34,5 @@ VALUES ('John', 'Doe', 'john.doe@example.com', '1990-05-15', 1),
 create table if not exists Shools(
  id serial,
  name varchar,
- address varchar,
- count_of_
+ address varchar
 );
